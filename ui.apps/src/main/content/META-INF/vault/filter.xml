@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/sikander/clientlibs"/>
+    <filter root="/apps/sikander/components"/>
+    <filter root="/apps/sikander/i18n"/>
+</workspaceFilter>
